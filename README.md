@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @PrashantChandrakar
+# 👋 Hi, I’m Prashant Chandrakar
 - ### 👀 I’m interested in Machine Learning, Web-app Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
