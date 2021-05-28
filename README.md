@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Prashant Chandrakar
-- ### 👀 I’m interested in Machine Learning, Web-app Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- ### 👀 I’m interested in Machine Learning, Web-app Development.
+- ### 🌱 I’m currently learning CPP, PYTHON and REACT.
 
 
 <!---
